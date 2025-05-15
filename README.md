@@ -4,7 +4,8 @@
   </a>
 </p>
 
-![Calleaum's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Calleaum&theme=darkhub)
+![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Calleaum&layout=compact&theme=dark)
+
 
 ## 📊 GitHub Stats
 
