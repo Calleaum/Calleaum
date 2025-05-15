@@ -1,13 +1,10 @@
-![Calleaum's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Calleaum&theme=darkhub)
-
-
-
 <p align="center" style="background-color:#1e1e1e; padding:10px; border-radius:10px;">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/kettlebells/calleaum?1337Badge=off&UM6P=off" alt="calleaum's 42 stats" />
   </a>
 </p>
 
+![Calleaum's GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Calleaum&theme=darkhub)
 
 ## 📊 GitHub Stats
 
