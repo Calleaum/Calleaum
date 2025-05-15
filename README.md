@@ -16,7 +16,15 @@
 
 <h2 align="center" style="color:#f4d03f; margin-bottom: 20px;">🛠️ Projets 42</h2>
 
-<table align="center" cellpadding="10" cellspacing="10" style="margin: 0 auto;">
+<style>
+  table.project-badges img {
+    width: 150px;
+    height: 40px;
+    object-fit: contain;
+  }
+</style>
+
+<table class="project-badges" align="center" cellpadding="10" cellspacing="10" style="margin: 0 auto;">
   <tr>
     <td align="center" valign="middle">
       <a href="https://github.com/Calleaum/Libft_42" target="_blank" rel="noopener noreferrer">
@@ -62,6 +70,7 @@
     </td>
   </tr>
 </table>
+
 
 
 
