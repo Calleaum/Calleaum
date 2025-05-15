@@ -4,9 +4,6 @@
   </a>
 </p>
 
-![Top Repos](https://github-readme-stats.vercel.app/api/top-langs/?username=Calleaum&layout=compact&theme=dark)
-
-
 ## 📊 GitHub Stats
 
 <p align="center">
