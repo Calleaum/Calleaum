@@ -19,7 +19,7 @@
 
 
 
-
+  
 <table class="project-badges" align="center" cellpadding="10" cellspacing="10" style="margin: 0 auto;">
   <tr>
     <td align="center" valign="middle">
