@@ -8,8 +8,9 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Calleaum&show_icons=true&title_color=ffff00&text_color=ffff00&icon_color=ffff00&bg_color=1e1e1e&border_color=303030" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calleaum&layout=compact&title_color=ffff00&text_color=ffff00&icon_color=ffff00&bg_color=1e1e1e&border_color=303030&card_width=420" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Calleaum&show_icons=true&title_color=ffff66&text_color=ffff66&icon_color=ffff66&bg_color=0f0f0f&border_color=303030" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calleaum&layout=compact&title_color=ffff66&text_color=ffff66&icon_color=ffff66&bg_color=0f0f0f&border_color=303030&card_width=420" width="420" />
 </p>
+
 
 
