@@ -15,9 +15,9 @@
 
 <p align="center">
 
-[![Repo 1](https://img.shields.io/badge/-Libft-yellow?style=for-the-badge&logo=github)](https://github.com/Calleaum/Repo1)  
-[![Repo_2](https://img.shields.io/badge/-Repo2-grey?style=for-the-badge&logo=github)](https://github.com/Calleaum/Repo2)  
-[![Repo 3](https://img.shields.io/badge/-Repo3-red?style=for-the-badge&logo=github)](https://github.com/Calleaum/Repo3)  
+[![Repo 1](https://img.shields.io/badge/-Libft-yellow?style=for-the-badge&logo=github)](https://github.com/Calleaum/Libft_42)  
+[![Repo_2](https://img.shields.io/badge/-GNL_42-grey?style=for-the-badge&logo=github)](https://github.com/Calleaum/Get_next_line_42)  
+[![Repo 3](https://img.shields.io/badge/-Ft_Printf-yellow?style=for-the-badge&logo=github)](https://github.com/Calleaum/Ft_printf_42)  
 
 </p>
 
