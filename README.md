@@ -6,6 +6,7 @@
 
 <h2 align="center" style="color:#f4d03f; margin-bottom: 20px;">📊 GitHub Stats</h2>
 
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Calleaum&show_icons=true&title_color=f4d03f&text_color=f4d03f&icon_color=f4d03f&bg_color=1c1c1f&border_color=3b3b3f" alt="GitHub Stats" />
 </p>
@@ -15,6 +16,7 @@
 </p>
 
 <h2 align="center" style="color:#f4d03f; margin-bottom: 20px;">🛠️ Projets 42</h2>
+
 
 
 
