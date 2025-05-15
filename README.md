@@ -13,7 +13,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calleaum&layout=compact&title_color=f4d03f&text_color=f4d03f&icon_color=f4d03f&bg_color=1c1c1f&border_color=3b3b3f" />
 </p>
 
-<p align="center">
 
 <p align="center">
   [![Libft_42](https://img.shields.io/badge/-&nbsp;Libft_42&nbsp;-f4d03f?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Calleaum/Libft_42)
