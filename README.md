@@ -14,11 +14,16 @@
 </p>
 
 <p align="center">
-
+  
 [![Libft_42](https://img.shields.io/badge/-Libft_42-f4d03f?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Calleaum/Libft_42)
 [![GNL_42](https://img.shields.io/badge/-GNL_42-3b3b3f?style=for-the-badge&logo=github&logoColor=f4d03f)](https://github.com/Calleaum/Get_next_line_42)
 [![Ft_Printf_42](https://img.shields.io/badge/-Ft_Printf_42-f4d03f?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Calleaum/Ft_printf_42)
 [![Pipex_42](https://img.shields.io/badge/-Pipex_42-3b3b3f?style=for-the-badge&logo=github&logoColor=f4d03f)](https://github.com/Calleaum/Pipex_42)
+
+</p>
+
+<p align="center">
+  
 [![Push_Swap_42](https://img.shields.io/badge/-Push_Swap_42-f4d03f?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Calleaum/Push_Swap_42)
 [![Minishell_42](https://img.shields.io/badge/-Minishell_42-3b3b3f?style=for-the-badge&logo=github&logoColor=f4d03f)](https://github.com/Calleaum/Minishell_42)
 [![So_Long_42](https://img.shields.io/badge/-So_Long_42-f4d03f?style=for-the-badge&logo=github&logoColor=000000)](https://github.com/Calleaum/So_long_42)
