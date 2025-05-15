@@ -14,7 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Calleaum&layout=compact&title_color=f4d03f&text_color=f4d03f&icon_color=f4d03f&bg_color=1c1c1f&border_color=3b3b3f&card_width=400" alt="Top Languages" />
 </p>
 
-<h2 align="center" style="color:#f4d03f; margin-bottom: 20px;">🛠️ Projets Publics</h2>
+<h2 align="center" style="color:#f4d03f; margin-bottom: 20px;">🛠️ Projets 42</h2>
 
 <table align="center" cellpadding="10" cellspacing="10" style="margin: 0 auto;">
   <tr>
